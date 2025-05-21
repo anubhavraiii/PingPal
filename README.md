@@ -9,6 +9,6 @@ Highlights:
 -  Global state management with Zustand
 -  Error handling both on the server and on the client
 
-![PingPal Preview](frontend/public/Screenshot2025-05-21_235735.png)
+![PingPal Preview](frontend/public/Screenshot%202025-05-21%20235735.png)
 
 - Multi Theme Combinations using Daisy UI Themes
