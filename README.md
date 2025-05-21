@@ -1,1 +1,1 @@
-![PingPal Preview](frontend/public/Screenshot 2025-05-21 235720.png)
+![PingPal Preview](frontend/public/Screenshot%202025-05-21%20235720.png)
